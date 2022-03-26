@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/GOWEGO/static/css/main.fd2e69e2.css",
+    "main.js": "/GOWEGO/static/js/main.320094c0.js",
+    "static/js/787.314474ed.chunk.js": "/GOWEGO/static/js/787.314474ed.chunk.js",
+    "static/media/videotour.mp4": "/GOWEGO/static/media/videotour.6d47dc926d9b4051b467.mp4",
+    "static/media/bg.mp4": "/GOWEGO/static/media/bg.523f91a01e45b6343b9c.mp4",
+    "static/media/Bridge.jpg": "/GOWEGO/static/media/Bridge.4bacb9b0e71329b0941b.jpg",
+    "static/media/thewkhao.jpg": "/GOWEGO/static/media/thewkhao.44710c966fb810bea248.jpg",
+    "static/media/Khanom.jpeg": "/GOWEGO/static/media/Khanom.3182f58cee8fed6d5624.jpeg",
+    "static/media/Khiriwong.jpg": "/GOWEGO/static/media/Khiriwong.728ec88db62c1ce1b5f7.jpg",
+    "static/media/Kee.jpg": "/GOWEGO/static/media/Kee.ddbb5fe1ba6cc7013ebc.jpg",
+    "static/media/dam.jpg": "/GOWEGO/static/media/dam.69449c188c483d1b36bf.jpg",
+    "static/media/Khao.jpg": "/GOWEGO/static/media/Khao.e78152065db70893b1b9.jpg",
+    "static/media/PhraMahathat.jpg": "/GOWEGO/static/media/PhraMahathat.417a354f2d7e4eb52f24.jpg",
+    "static/media/QRcode.jpg": "/GOWEGO/static/media/QRcode.461503f112e681035701.jpg",
+    "static/media/logo.png": "/GOWEGO/static/media/logo.4eff7f273dfaea4e0c1a.png",
+    "index.html": "/GOWEGO/index.html",
+    "main.fd2e69e2.css.map": "/GOWEGO/static/css/main.fd2e69e2.css.map",
+    "main.320094c0.js.map": "/GOWEGO/static/js/main.320094c0.js.map",
+    "787.314474ed.chunk.js.map": "/GOWEGO/static/js/787.314474ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd2e69e2.css",
+    "static/js/main.320094c0.js"
+  ]
+}
